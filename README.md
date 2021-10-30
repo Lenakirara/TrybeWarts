@@ -6,7 +6,7 @@
 Neste projeto, você irá desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre a escola. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo *verdadeiramente mágico*! Mas não se preocupe se não tiver conhecimento sobre o universo da obra original, pois criamos nossa própria versão da Escola de Bruxaria!
 
 ---
-  # Habilidades
+## Habilidades
 
 Neste projeto, verificamos se você é capaz de:
 
@@ -21,13 +21,20 @@ Neste projeto, verificamos se você é capaz de:
 ---
 
 
-# Como desenvolver
+## Como desenvolver
 
 
 ![Página da Trybewarts](./pagina-principal.png)
 
 ---
 
+## Antes de iniciar
+
+- Crie um Fork desse projeto. Siga esse [tutorial](https://guides.github.com/activities/forking/).
+- Após o fork, clone o repositório criado para o seu computador.
+- Não se esqueça de rodar `npm instal`.
+
+---
 ## ESLint e Stylelint
 
 Para garantir a qualidade do código, vamos utilizar neste projeto os linters `ESLint` e `Stylelint`.
